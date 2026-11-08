@@ -1,0 +1,33 @@
+{
+  "method": "random_closure",
+  "seed": 44,
+  "budget": 90.0,
+  "seconds": 95.76002346299992,
+  "iterations": 11,
+  "refresh_seconds": [
+    4.440545424999982
+  ],
+  "objective": 23167255.459441748,
+  "max_row_violation": 5.6772429525501306e-14,
+  "integrality_error": 3.3306690738754696e-16,
+  "bound_violation": 4.551914400963142e-15,
+  "precedence_violation": 2.395847554586205e-16,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1999434.2700000016,
+    1999736.4000000001,
+    1611177.63,
+    5664.0,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    860466.6999999997,
+    722112.0000000005,
+    1100000.0,
+    5664.0,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 1
+}

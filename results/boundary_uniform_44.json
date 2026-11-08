@@ -1,0 +1,31 @@
+{
+  "method": "boundary_uniform",
+  "seed": 44,
+  "seconds": 59.358127750999984,
+  "budget": 60.0,
+  "iterations": 95,
+  "start_objective": 23736719.732016962,
+  "objective": 24099543.770007674,
+  "max_row_violation": 9.547918011776346e-15,
+  "integrality_error": 0.0,
+  "bound_violation": 9.547918011776346e-15,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1999997.8800000013,
+    1999960.4800000002,
+    1485872.57,
+    130181.37,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    976167.7999999999,
+    801408.0,
+    1100000.0,
+    130181.3699999999,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 1
+}

@@ -1,0 +1,26 @@
+{
+  "source": "random_closure_reference_42.npy",
+  "objective": 24120482.96670103,
+  "max_row_violation": 5.5067062021407764e-14,
+  "integrality_error": 0.0,
+  "bound_violation": 5.508352092093667e-14,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1996713.3700000013,
+    1998390.6400000001,
+    1475861.19,
+    145047.1,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    946435.5599999999,
+    816911.1399999997,
+    1100000.0,
+    145047.1,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 1
+}

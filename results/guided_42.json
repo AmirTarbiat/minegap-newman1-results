@@ -1,0 +1,33 @@
+{
+  "method": "guided",
+  "seed": 42,
+  "budget": 90.0,
+  "seconds": 89.79055115299991,
+  "iterations": 15,
+  "refresh_seconds": [
+    4.351472607999995
+  ],
+  "objective": 23235396.676965907,
+  "max_row_violation": 1.4684031768297245e-11,
+  "integrality_error": 0.0,
+  "bound_violation": 1.4684031768297245e-11,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1999986.2100000014,
+    1999960.4800000002,
+    1515108.21,
+    100957.4,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    841259.650000003,
+    727295.9999999837,
+    1100000.0,
+    99004.15000007373,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 3
+}

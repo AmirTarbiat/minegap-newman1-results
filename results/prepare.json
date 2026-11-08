@@ -1,0 +1,96 @@
+{
+  "lp_objective": 24486549.021617074,
+  "lp_seconds": 4.137100992000001,
+  "lp_status": "HighsModelStatus.kOptimal",
+  "variables": 12720,
+  "binary_variables": 6360,
+  "rows": 30964,
+  "precedence_arcs": 3922,
+  "initial": {
+    "objective": 22607937.039745927,
+    "max_row_violation": 0.0,
+    "integrality_error": 0.0,
+    "bound_violation": 0.0,
+    "precedence_violation": 0.0,
+    "mined_blocks": 1059,
+    "mine_tonnes": [
+      1999645.6200000017,
+      1999525.05,
+      1616841.63,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "processed_tonnes": [
+      703348.4899999996,
+      850910.21,
+      1100000.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "fractional_routing_blocks": 1
+  },
+  "reference": {
+    "objective": 23658229.882463418,
+    "max_row_violation": 0.0,
+    "integrality_error": 0.0,
+    "bound_violation": 0.0,
+    "precedence_violation": 0.0,
+    "mined_blocks": 1059,
+    "mine_tonnes": [
+      1994949.6600000018,
+      1999674.3499999999,
+      1383982.47,
+      237405.81999999998,
+      0.0,
+      0.0
+    ],
+    "processed_tonnes": [
+      654744.3499999996,
+      1029306.35,
+      1097888.55,
+      237405.81999999998,
+      0.0,
+      0.0
+    ],
+    "fractional_routing_blocks": 0
+  },
+  "total_tonnes": 5619377.75,
+  "selected_lp_mass": 1059.0,
+  "unmined_lp_blocks": 1,
+  "capacity_duals": [
+    [
+      0.594916720665411,
+      0.3007208502533778,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.06560929934105375,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "versions": {
+    "highs": "1.15.1",
+    "python": "3.12.14",
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "threads": 1,
+    "cpu_count": 9
+  },
+  "sha256": {
+    "newman1_pcpsp_gmunoz120723.sol": "4d32bb0b401617486de86418a913f1b07cc77cea2a2ecd81d566dea9b40dfe45",
+    "newman1(4).prec": "5a2aaa53b8c7843de643ab0f1280b524b047f86aa7c907eae657909116f05942",
+    "newman1.LPcpit": "4d8297a69f42c89d85d8caeb436bb65096bba719cb78ea67f8747898555ad473",
+    "newman1(4).pcpsp": "0c62b5f5d68c6fcfca51c91010d871547f57aa48d00eab026d9da1305641f68c",
+    "newman1(3).blocks": "e00e193d0bf4f4ec8de4f14ee0fd95e64bd9d894788cbf594606d16c7b471555"
+  },
+  "supplied_cp_expected_objective": 24486185.019051366,
+  "supplied_lp_note": "CPIT file: destination 0 denotes its sole fixed-destination variable, not the PCPSP waste destination. Not used as PCPSP LP."
+}

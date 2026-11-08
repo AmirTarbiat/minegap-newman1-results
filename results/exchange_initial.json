@@ -1,0 +1,29 @@
+{
+  "method": "feasible_exchange_initial",
+  "seconds": 12.166579645000184,
+  "iterations": 95,
+  "evaluations": 107762,
+  "objective": 23633487.019751184,
+  "max_row_violation": 0.0,
+  "integrality_error": 0.0,
+  "bound_violation": 0.0,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1997312.3800000015,
+    1999762.73,
+    1278061.74,
+    340875.45,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    722311.5899999996,
+    850910.21,
+    1100000.0,
+    338922.2,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 1
+}

@@ -1,0 +1,30 @@
+{
+  "method": "full_mip_reference",
+  "seconds": 118.48498721500005,
+  "status": "HighsModelStatus.kTimeLimit",
+  "dual_bound": 24396209.71729535,
+  "nodes": 0,
+  "objective": 23658229.882463418,
+  "max_row_violation": 0.0,
+  "integrality_error": 0.0,
+  "bound_violation": 0.0,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1994949.6600000018,
+    1999674.3499999999,
+    1383982.47,
+    237405.81999999998,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    654744.3499999996,
+    1029306.35,
+    1097888.55,
+    237405.81999999998,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 0
+}

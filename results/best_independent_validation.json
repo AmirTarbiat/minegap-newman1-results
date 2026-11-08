@@ -1,0 +1,26 @@
+{
+  "source": "linucb_42_initial.npy",
+  "objective": 24102782.997761175,
+  "max_row_violation": 0.0,
+  "integrality_error": 0.0,
+  "bound_violation": 0.0,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1999162.2800000017,
+    1999861.4700000002,
+    1463216.57,
+    153771.97999999998,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    912304.0199999997,
+    847345.1699999999,
+    1100000.0,
+    153771.97999999998,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 1
+}

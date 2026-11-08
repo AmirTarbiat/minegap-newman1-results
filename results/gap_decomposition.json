@@ -1,0 +1,10 @@
+{
+  "initial_gap": 1878611.9818711467,
+  "row_dual_slack": 1874487.3531781365,
+  "bound_reduced_cost": 4124.628693010285,
+  "capacity_component": 26377.681608967196,
+  "precedence_component": 837003.6680593826,
+  "routing_coupling_component": 1011106.0035097867,
+  "block_once_component": 0.0,
+  "identity_residual": 0.0
+}

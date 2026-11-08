@@ -1,0 +1,31 @@
+{
+  "method": "boundary_linucb",
+  "seed": 44,
+  "seconds": 59.305985400000054,
+  "budget": 60.0,
+  "iterations": 90,
+  "start_objective": 23736719.732016962,
+  "objective": 24089284.135053992,
+  "max_row_violation": 0.0,
+  "integrality_error": 1.7763568394002505e-15,
+  "bound_violation": 1.7763568394002505e-15,
+  "precedence_violation": 0.0,
+  "mined_blocks": 1059,
+  "mine_tonnes": [
+    1999209.6800000013,
+    1996258.4200000002,
+    1575251.3900000001,
+    45292.81000000002,
+    0.0,
+    0.0
+  ],
+  "processed_tonnes": [
+    943116.7699999999,
+    931440.77,
+    1099494.7200000002,
+    45292.81000000002,
+    0.0,
+    0.0
+  ],
+  "fractional_routing_blocks": 0
+}

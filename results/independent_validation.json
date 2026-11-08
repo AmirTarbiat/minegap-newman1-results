@@ -1,0 +1,27 @@
+{
+  "objective": 24120482.966701023,
+  "precedence_violation": 0.0,
+  "resource_violation": 1.3969838619232178e-09,
+  "extraction_integrality_error": 0.0,
+  "unique_extraction_violation": 0.0,
+  "negative_destination_violation": 0.0,
+  "resource_usage": [
+    [
+      1996713.3700000013,
+      1998390.6400000001,
+      1475861.19,
+      145047.1,
+      0.0,
+      0.0
+    ],
+    [
+      946435.5599999999,
+      816911.14,
+      1100000.0000000014,
+      145047.1,
+      0.0,
+      0.0
+    ]
+  ],
+  "objective_reconstruction_error": -7.450580596923828e-09
+}
