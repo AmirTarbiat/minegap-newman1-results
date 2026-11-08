@@ -1,3 +1,13 @@
+## Input files
+
+Download the original files from [MineLib Newman1](https://minelib.org/v1/newman1.xhtml).
+Create an `upload/` folder next to `experiment.py` and use these exact local filenames:
+
+- `upload/newman1.pcpsp` — PCPSP model
+- `upload/newman1.prec` — precedence data
+- `upload/newman1.blocks` — block data
+- `upload/newman1.LPcpit` — supplied fractional solution
+- `upload/newman1_pcpsp_gmunoz120723.sol` — published reference schedule
 # Reproduction
 
 Use Python 3.12 and the versions in requirements.txt. Run from the directory containing the scripts and `upload/`.
@@ -50,3 +60,9 @@ python build_report.py
 ```
 
 The reported values are from retained files, not assertions of deterministic repeatability under wall-clock limits. Keep original outputs before rerunning, since matching filenames are overwritten. `OPENBLAS_NUM_THREADS=1` was used for all experiment commands in this session.
+
+python experiment.py --stage summarize
+python export_independent.py
+python validate_solution.py
+python validate_solution.py --solution results/best_independent_pcpsp.sol --expected results/best_independent_validation.json --output results/independent_start_native_validation.json
+python build_report.py
